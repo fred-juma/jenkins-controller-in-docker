@@ -50,7 +50,7 @@ CONTAINER ID   IMAGE                 COMMAND                  CREATED          S
 681fe8783532   jenkins/jenkins:lts   "/usr/bin/tini -- /u…"   36 minutes ago   Up 36 minutes   0.0.0.0:8000->8080/tcp, :::8000->8080/tcp, 0.0.0.0:50001->50000/tcp, :::50001->50000/tcp          jenkins-controller
 ```
 ## Launch browser to access the jenkins web interface.
-[http://localhost8000](http://localhost:8000)
+[http://localhost:8000](http://localhost:8000)
 
 ## Fetch the First time Administrator password available inside the container
 
